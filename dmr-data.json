@@ -1,0 +1,80 @@
+{
+  "settings": {
+    "site_name": "DMR",
+    "tagline": "A/L Papers & Performance Platform"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "9a4aabf0e5cf71cae2cea646613ce7e2a5919fa758e56819704be25a3a2c1f0b",
+      "name": "DMR Administrator",
+      "role": "admin",
+      "district": "",
+      "school": "",
+      "class_name": ""
+    },
+    {
+      "id": 2,
+      "username": "Sakindu geesath",
+      "password": "ceb5c933b541b62caf4cb55fea43b6ce33cee2d5ec8e0ab2c7cf5f2b512e0ebb",
+      "name": "sakiya",
+      "role": "student",
+      "district": "c",
+      "school": "mc",
+      "class_name": ""
+    },
+    {
+      "id": 3,
+      "username": "Irusha dukshan",
+      "password": "0f2f02201e42b7d8e144ead33e1e7463f19c1eaf9ec7a2189f96b909784d9c94",
+      "name": "Iruwa",
+      "role": "student",
+      "district": "c",
+      "school": "mc",
+      "class_name": ""
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Physics"
+    },
+    {
+      "id": 2,
+      "name": "Combined Maths"
+    },
+    {
+      "id": 3,
+      "name": "Chemistry"
+    },
+    {
+      "id": 4,
+      "name": "ICT"
+    },
+    {
+      "id": 5,
+      "name": "Accounting"
+    },
+    {
+      "id": 6,
+      "name": "Business Studies"
+    },
+    {
+      "id": 7,
+      "name": "Economics"
+    }
+  ],
+  "papers": [],
+  "marks": [
+    {
+      "id": 4,
+      "paper_id": 0,
+      "student_id": 2,
+      "score": 75,
+      "feedback": "good"
+    }
+  ],
+  "announcements": [],
+  "next": 5
+}
